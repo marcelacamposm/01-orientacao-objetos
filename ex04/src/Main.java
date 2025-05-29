@@ -43,7 +43,7 @@ public class Main {
         //Peça ao usuário para inserir dois números inteiros. Compare os números e imprima uma mensagem indicando se são
         // iguais, diferentes, o primeiro é maior ou o segundo é maior.
 
-        System.out.println("Agora, digite dois números inteiros:");
+        System.out.println("Agora, digite dois números inteiroos:");
         int numero1 = scanner.nextInt();
         int numero2 = scanner.nextInt();
 
