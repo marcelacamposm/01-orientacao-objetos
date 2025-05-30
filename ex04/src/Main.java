@@ -49,9 +49,9 @@ public class Main {
             System.out.println("Os números são iguais");
         } else if (numero1 < numero2){
             System.out.println("O segundo número é maior");
-        } else if (numero1 > numero2){
+        } else
             System.out.println("O primeiro número é maior");
-        }
+
 
         break;
 
@@ -102,6 +102,11 @@ public class Main {
                      //Crie um programa que solicite ao usuário um número e calcule o fatorial desse número.
 
                 case 6:
+
+                    // Este código calcula o fatorial de um número digitado pelo usuário.
+                    // Ele começa com fatorial = 1 e multiplica por cada número de 1 até o número digitado.
+                    // Exemplo: se o número for 5 → faz 1*2*3*4*5 = 120.
+
 
                     System.out.println("Digite um número:");
 
