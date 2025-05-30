@@ -1,6 +1,4 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class Exercicio2 {
     public static void main(String[] args) {
 
         //Crie um programa que realize a média de duas notas decimais e exiba o resultado.
@@ -71,3 +69,4 @@ public class Main {
 
     }
 }
+

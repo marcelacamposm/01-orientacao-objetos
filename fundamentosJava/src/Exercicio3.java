@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class Exercicio3 {
 
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);

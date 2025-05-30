@@ -1,4 +1,4 @@
-public class Main {
+public class ProjetoScreenMatch {
     public static void main(String[] args) {
 
         System.out.println("Esse é o Screen Match");

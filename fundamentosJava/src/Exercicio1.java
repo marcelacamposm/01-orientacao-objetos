@@ -1,4 +1,4 @@
-public class Main {
+public class Exercicio1 {
 
     public static void main(String[] args) {
         double temperaturaEmCelsius = 30.4;
