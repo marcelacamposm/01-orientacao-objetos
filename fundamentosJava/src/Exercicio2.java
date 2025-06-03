@@ -61,12 +61,6 @@ public class Exercicio2 {
 
         System.out.println("Novo Preço= " + novoPreco);
 
-
-
-
-
-
-
     }
 }
 

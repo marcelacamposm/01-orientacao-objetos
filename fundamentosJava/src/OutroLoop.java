@@ -12,8 +12,8 @@ public class OutroLoop {
             nota = leitura.nextDouble();
 
             if (nota != -1) {
-            mediaAvaliacao += nota;
-            totalDeNotas++;
+                mediaAvaliacao += nota;
+                totalDeNotas++;
             }
 
         }

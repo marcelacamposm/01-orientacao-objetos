@@ -10,7 +10,7 @@ public class Loop {
             System.out.println("Diga sua avaliação para o filme:");
             nota = leitura.nextDouble();
             mediaAvaliacao += nota;
-            
+
         }
 
         System.out.printf ("Média de avaliações: %.2f", mediaAvaliacao/3) ;

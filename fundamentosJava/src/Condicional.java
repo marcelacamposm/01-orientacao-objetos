@@ -10,12 +10,9 @@ public class Condicional {
         } else {
             System.out.println("Filme retrô que vale a pena assistir!");
         }
-
         if (incluidoNoPlano == true  && tipoPlano.equals("pluss")) {
-
             System.out.println("Filme Liberado!");
         } else {
-
             System.out.println("Deve pagar a locação!");
         }
 
